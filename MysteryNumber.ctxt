@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=MysteryNumber
+comment1.params=x
+comment1.target=int\ reverse(int)
+comment2.params=num
+comment2.target=boolean\ isMysteryNo(int)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

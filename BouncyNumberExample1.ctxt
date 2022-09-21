@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=BouncyNumberExample1
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=inputNumber
+comment2.target=boolean\ isIncreasing(int)
+comment3.params=inputNumber
+comment3.target=boolean\ isDecreasing(int)
+numComments=4
